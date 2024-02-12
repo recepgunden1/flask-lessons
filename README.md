@@ -1,2 +1,2 @@
 # EDUCATİON PROJECT
- - Bu proje bir eğitim projesidir, hiçbir amacı yoktur ve deneysel amaçlarla sürekli değiştirilmektedir.
+ - This project is an educational project, it has no purpose and is constantly changed for experimental purposes.
